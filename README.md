@@ -11,7 +11,7 @@ You need the following prerequisities
 
 [SQLite Database](https://www.sqlite.org/download.html)(We recommend using sqlite)
 
-##Running the SpringBootApplication
+## Running the SpringBootApplication
 
 All additional dependencies to run the application exist inside the pom.xml file
 
